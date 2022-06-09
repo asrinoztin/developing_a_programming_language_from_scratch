@@ -44,3 +44,9 @@ The Naja Programming Language is based on Python. It still is underdeveloped. Ma
 ...(some output)...
 
 > make clean
+
+
+
+# Credits
+	This project was developed with Murat Başkonuş
+	Contact via https://www.linkedin.com/in/murat-baskonus/
